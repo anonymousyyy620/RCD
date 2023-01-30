@@ -1,7 +1,7 @@
 
 ## Real-time Controllable Denoising for Image and Video
 
-The official pytorch implementation of the paper **[Real-time Controllable Denoising for Image and Video]
+The official pytorch implementation of the paper **[Real-time Controllable Denoising for Image and Video]**
 
 
 ### Installation
