@@ -7,12 +7,13 @@ The official pytorch implementation of the paper **[Real-time Controllable Denoi
 ### Installation
 This implementation based on [BasicSR] 
 
+Basic requirements:
 ```python
-python 3.9.5
-pytorch 1.11.0
-cuda 11.3
+python 3.9.12
+pytorch 1.12.1
+cuda 11.8
 ```
-
+Other requirements:
 ```
 pip install -r requirements.txt
 ```
