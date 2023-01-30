@@ -25,7 +25,7 @@ network_g:
 
 # path
 path:
-  pretrain_network_g: experiments/net_g_150000.pth
+  pretrain_network_g: experiments/NAFNet_RCD.pth
   strict_load_g: true
   resume_state: ~
   visualization: ~
