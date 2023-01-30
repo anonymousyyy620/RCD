@@ -7,7 +7,7 @@ manual_seed: 10
 # dataset and data loader settings
 datasets:
   val:
-    name: SIDD_val
+    name: Nam_val
     type: PairedImageDataset
 
     dataroot_lq: input.lmdb
