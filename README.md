@@ -20,7 +20,7 @@ python setup.py develop --no_cuda_ext
 ```
 ### Quick Start 
 Data Preparation:
-  1. Download Nam dataset (https://shnnam.github.io/research/ccnoise/)
+  1. Download [Nam dataset](https://shnnam.github.io/research/ccnoise/)
   2. Crop the gt and input images into 512*512 patches and save as gt.lmdb and input.lmdb, respectively. (or download from Google Drive [GT](https://drive.google.com/file/d/1Cyi5ZCjBPHixa8zE5YuUnjXvm9LBeQLI/view?usp=share_link) and [Input](https://drive.google.com/file/d/1aGmgGJupzNiseAOVD6CUoZOtg-kB3Usz/view?usp=sharing))
   3. Edit the dataroot_lq and dataroot_gt in NAFNet-RCD-tiny.yml to the corresponding paths: /your_path/gt.lmdb and /your_path/input.lmdb
 
